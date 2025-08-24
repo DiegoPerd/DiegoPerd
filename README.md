@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Diego. I've been managing SQL Server for over 20 years.
 
-<!--
-**DiegoPerd/DiegoPerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been a Database Administrator (DBA) specializing in SQL Server for over two decades. My career has been in the on-premise world, optimizing performance, ensuring high availability, and managing critical data infrastructures.
 
-Here are some ideas to get you started:
+Currently, I am in the process of transitioning to apply all that experience to the challenges of the cloud and the philosophy of Database Reliability Engineering (DBRE). My main focus is automation and the creation of resilient data systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Current Project
+
+I am building the **[DBRE-Toolkit](https://github.com/DiegoPerd/DBRE-Toolkit)**, a set of tools to automate SQL Server administration, based on the lessons learned over the years.
+
+### Currently learning and experimenting with:
+
+- Azure Fundamentals and Administration (AZ-104)
+- Infrastructure as Code (Bicep)
+- PowerShell for advanced automation
+
+### Contact
+
+How to reach me: **[LinkedIn Profile](https://www.linkedin.com/in/diegoperdices/)**
