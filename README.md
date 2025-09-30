@@ -10,7 +10,7 @@ I am building the **[DBRE-Toolkit](https://github.com/DiegoPerd/DBRE-Toolkit)**,
 
 ### Currently learning and experimenting with:
 
-- Azure Fundamentals and Administration (AZ-104)
+- Azure Administration
 - Infrastructure as Code (Bicep)
 - PowerShell for advanced automation
 
